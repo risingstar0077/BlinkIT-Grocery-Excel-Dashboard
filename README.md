@@ -1,4 +1,4 @@
-BlinkIt Sales Dashboard
+#BlinkIt Sales Dashboard
 
 📊 Project Overview
 
